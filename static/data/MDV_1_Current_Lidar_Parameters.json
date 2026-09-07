@@ -1,7 +1,7 @@
 {
     "station": "MDV_1",
-    "source_log": "MDV_1_2026-09-07__12-48-10_log.txt",
-    "timestamp": "07-09-2026 12:48:10",
+    "source_log": "MDV_1_2026-09-07__15-31-08_log.txt",
+    "timestamp": "07-09-2026 15:31:08",
     "Frequency": 5.0,
     "HTS_num": 7.0,
     "HTS_len_seconds": 1800.0,
