@@ -1,7 +1,7 @@
 {
     "station": "MED_L",
-    "source_log": "MED_L_2026-09-10__11-12-02_log.txt",
-    "timestamp": "10-09-2026 11:12:02",
+    "source_log": "MED_L_2026-09-10__16-39-13_log.txt",
+    "timestamp": "10-09-2026 16:39:13",
     "Frequency": 5.0,
     "HTS_num": 4.0,
     "HTS_len_seconds": 1800.0,
