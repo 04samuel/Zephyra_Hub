@@ -1,7 +1,7 @@
 {
     "station": "MED_L",
-    "source_log": "MED_L_2026-09-10__01-42-13_log_launcher.txt",
-    "timestamp": "10-09-2026 01:42:13",
+    "source_log": "MED_L_2026-09-10__09-12-12_log_launcher.txt",
+    "timestamp": "10-09-2026 09:12:12",
     "AllEventTimeAdjustmentSec": 0.0,
     "Event0TimeAdjustmentSec": 0.0,
     "Event1TimeAdjustmentSec": 0.0,
